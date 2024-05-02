@@ -15,11 +15,11 @@
 ### Примеры запуска
 
 ```bash
-./copy_files.sh /path/to/source_directory
+./script.sh /path/to/source_directory
 ```
 Эта команда скопирует все файлы из /path/to/source_directory в /path/to/source_directory_copy.
 
 ```bash
-./copy_files.sh /path/to/source_directory /path/to/target_directory
+./script.sh /path/to/source_directory /path/to/target_directory
 ```
 Эта команда скопирует все файлы из /path/to/source_directory в /path/to/target_directory.
